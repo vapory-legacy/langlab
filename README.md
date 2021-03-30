@@ -1,6 +1,6 @@
 # Vapory Language Lab
 
-This repository contains an MPS project for experimenting with languages for Ethereum.
+This repository contains an MPS project for experimenting with languages for Vapory.
 
 ## Prerequisites/Install
 
